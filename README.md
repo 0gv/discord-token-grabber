@@ -1,6 +1,6 @@
-***This version of the grabber only supports Windows***
+- ***This version of the grabber only supports Windows***
+- ***I am not responsible for anything that happens, everything I do is for student purposes***
 
-----------------------
 
 # ___Features___
 >- No local caching
@@ -15,7 +15,6 @@
 >- Send the script to your victim and make them run it.
 
 
----------------------
 
 
 ![Sin título](https://user-images.githubusercontent.com/86808747/124200902-807b7b80-daa4-11eb-9533-e54376c97087.png)
