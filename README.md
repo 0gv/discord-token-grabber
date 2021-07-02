@@ -18,7 +18,13 @@
 
 ![amDqkYGOjK](https://user-images.githubusercontent.com/86808747/124202206-e87f9100-daa7-11eb-9900-5fb7af14ea9c.gif)
 
------------
+# ___Information___
+
+- (Account Info)
+>- ___Email, Phone, About nitro and Billing info___
+
+- (PC Info)
+>- ___Ip, Username, PC Name, Token Location___
 
 ![Sin título](https://user-images.githubusercontent.com/86808747/124200902-807b7b80-daa4-11eb-9533-e54376c97087.png)
 
